@@ -41,7 +41,7 @@
         <!--Users-->
         <scene sceneID="75T-P2-mKk">
             <objects>
-                <tableViewController title="Users" id="oMc-z3-bQG" sceneMemberID="viewController">
+                <tableViewController title="Users" id="oMc-z3-bQG" customClass="Users" customModule="Forum" customModuleProvider="target" sceneMemberID="viewController">
                     <tableView key="view" clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="44" sectionHeaderHeight="28" sectionFooterHeight="28" id="AA0-5M-UH0">
                         <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -72,7 +72,7 @@
         <!--Posts-->
         <scene sceneID="Qv5-7t-94I">
             <objects>
-                <tableViewController title="Posts" id="FJo-Ao-qzn" sceneMemberID="viewController">
+                <tableViewController title="Posts" id="FJo-Ao-qzn" customClass="Posts" customModule="Forum" customModuleProvider="target" sceneMemberID="viewController">
                     <tableView key="view" clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="44" sectionHeaderHeight="28" sectionFooterHeight="28" id="a65-ta-BtX">
                         <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>

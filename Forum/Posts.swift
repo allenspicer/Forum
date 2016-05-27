@@ -6,8 +6,9 @@
 //  Copyright © 2016 Allen Spicer. All rights reserved.
 //
 
-import Foundation
 import UIKit
+import Foundation
+import Firebase
 
 class Posts: UITableViewController {
 
