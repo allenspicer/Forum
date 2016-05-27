@@ -6,7 +6,8 @@
 //  Copyright © 2016 Allen Spicer. All rights reserved.
 //
 
-import Cocoa
+import Foundation
+import UIKit
 
 class Posts: UITableViewController {
 
